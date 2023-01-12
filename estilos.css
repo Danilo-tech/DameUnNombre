@@ -1,0 +1,44 @@
+body{
+    background: url(efecto.gif);
+}
+
+div{
+    text-align: center;
+    margin-top: 4rem;
+    
+}
+button{
+text-align: center;
+background-color: coral;
+padding: 2rem 6rem;
+margin: 0 auto;
+font-weight: 500;
+font-size: 2rem;
+border-radius: 24px;
+border: none;
+color: white;
+}
+
+button:hover{
+    text-align: center;
+    background-color: coral;
+    padding: 2rem 7rem;
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: 2.5rem;
+    border-radius: 24px;
+    border: none;
+    color: white;  
+}
+
+#textarea{
+
+    margin-top: 5rem;
+    text-align: center;
+    border: none;
+    resize: none;
+    outline: none;
+    width: 40rem;
+    height: 10rem;
+    font-size: 4.5rem;
+}
